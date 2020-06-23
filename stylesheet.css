@@ -1,36 +1,31 @@
 p {
   color: black;
 }
-     table {
+
+table {
          border: 2px;
          border-color: inherit; purple #581845;
          currentcolor:
          }
 
-         * {
-           background-color: #427D7E;
-         }
-
-     th {
+th {
          border: 1.5px;
          padding: 5px;
          align-items: center;
          background-color: #6BCCCE;
-
-
      }
 
-       th {
+th {
            background-color: #07595A;
-
        }
-     td {
+
+td {
          border: 2px #1A441B;
          padding: 5px;
          align-items: center;
-
      }
-     p {
+
+p {
        color: #246B26;
      }
 
@@ -45,7 +40,6 @@ p {
      font-family: sans-serif;
      font-size: 36px;
      font-weight: bold;
-
  }
 
 h2 {
@@ -56,11 +50,10 @@ h2 {
 h3 {
    color: #1A441B;
    text-align: center;
-
 }
 
 body{
-   color: #F3F4EA;
+   color: red;
 }
 form{
   border-radius: 2px;
